@@ -10,7 +10,7 @@
 <h4 align="center">
   <p>Tecnologias: Ruby, Gherkin e Cypress.</p>
 
-  <p>Objetivo: Teste para um processo seletivo.</p>
+  <p>Objetivo: Teste Front-end e Back-end para um processo seletivo.</p>
   <br>
 </h4>
 
